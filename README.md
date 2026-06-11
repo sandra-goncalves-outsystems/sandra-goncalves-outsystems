@@ -1,16 +1,32 @@
-## Hi there 👋
+# Sandra Gonçalves
 
-<!--
-**sandra-goncalves-outsystems/sandra-goncalves-outsystems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+OutSystems Developer with around 2 years of professional experience in the development, maintenance and evolution of enterprise applications and public portals.
 
-Here are some ideas to get you started:
+## Main Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- OutSystems Reactive Web
+- OutSystems Developer Cloud (ODC)
+- REST APIs and SOAP Web Services
+- SQL and Relational Databases
+- Systems Integration
+- JavaScript, CSS and HTML
+- Agile Methodologies
+
+## Certifications
+
+- OutSystems Associate Reactive Developer (O11)
+- OutSystems Associate Developer (ODC)
+- OutSystems Front-End Developer Specialization
+- OutSystems Mobile Developer Specialization
+
+## Areas of Interest
+
+- Enterprise Low-Code Development
+- Systems Integration
+- Application Modernization
+- Public Sector Solutions
+- APIs and Data Integration
+
+## Professional Background
+
+Before transitioning to software development, I built over 15 years of professional experience in Quality, Environment and Health & Safety Management, developing strong analytical, process improvement and stakeholder management skills.
