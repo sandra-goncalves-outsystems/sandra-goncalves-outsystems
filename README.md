@@ -18,6 +18,8 @@ OutSystems Developer with around 2 years of professional experience in the devel
 - OutSystems Associate Developer (ODC)
 - OutSystems Front-End Developer Specialization
 - OutSystems Mobile Developer Specialization
+- GenAI Academy: Yellow Belt Level 2 for Engineers
+- 15 Days of SQL: The Complete SQL Masterclass 2024
 
 ## Areas of Interest
 
